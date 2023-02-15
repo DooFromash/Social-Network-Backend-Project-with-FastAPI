@@ -22,6 +22,6 @@ Instructions:
 
 <p>http://127.0.0.1:8000/api/v1/</p>
 <p>http://127.0.0.1:8000/api/v1/docs</p>
-<p>para crear la red en docker:   sudo docker network create red</p>
+<p>to create docker net:   sudo docker network create red</p>
 <p>sudo docker run -d --network red -p 8000:8000 systemdeveloper868/apirest</p>
 <p>To download docker: docker pull systemdeveloper868/apirest</p>
